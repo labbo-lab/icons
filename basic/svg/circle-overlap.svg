@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 100 500 300">
+  <defs>
+    <linearGradient id="PRIMARY">
+      <stop stop-color="#1df"/>
+    </linearGradient>
+    <linearGradient id="SECONDARY">
+      <stop stop-color="#0ac"/>
+    </linearGradient>
+  </defs>
+  <circle cx="350" cy="250" r="150" fill="url(#PRIMARY)"/>
+  <path fill="url(#SECONDARY)" d="M150 400a150 150 0 1 1 80-277 175 175 0 0 0 0 254c-23 15-51 23-80 23Z"/>
+</svg>

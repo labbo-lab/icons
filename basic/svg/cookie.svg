@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="primary">
+      <stop stop-color="#1df"/>
+    </linearGradient>
+    <linearGradient id="secondary">
+      <stop stop-color="#0ac"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#secondary)" d="M500 244A250 250 0 1 1 256 0a87 87 0 0 0 9 128 88 88 0 0 0 107 107 88 88 0 0 0 128 9Z"/>
+  <circle cx="130.4" cy="274.2" r="58.7" fill="url(#primary)"/>
+  <circle cx="290.9" cy="279.2" r="31.4" fill="url(#primary)"/>
+  <circle cx="167.6" cy="98.9" r="36.6" fill="url(#primary)"/>
+  <circle cx="407.2" cy="334" r="33.4" fill="url(#primary)"/>
+  <circle cx="229.3" cy="426.1" r="40.2" fill="url(#primary)"/>
+  <circle cx="362.4" cy="150.9" r="40.1" fill="url(#secondary)"/>
+  <circle cx="308.4" cy="71.3" r="25.9" fill="url(#secondary)"/>
+  <circle cx="413.1" cy="62.9" r="17.4" fill="url(#secondary)"/>
+  <circle cx="468.5" cy="187.6" r="27.9" fill="url(#secondary)"/>
+</svg>
